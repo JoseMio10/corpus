@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Corpus",
+  "short_name": "Corpus",
+  "description": "Atlas clínico 3D en español",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1016",
+  "theme_color": "#0a1016",
+  "icons": [
+    { "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
